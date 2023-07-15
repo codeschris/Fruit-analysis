@@ -36,7 +36,6 @@ range(yield)
 #retail price
 range(retail_price)
 
-barplot(count_form)
 df <- as.data.frame(count_form)
 df
 

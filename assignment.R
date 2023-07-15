@@ -1,4 +1,3 @@
-#Data visualizations
 #descriptive statistics for relevant variables
 #independent and paired t-tests
 

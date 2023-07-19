@@ -30,10 +30,18 @@ summary(data)
 #yield
 var(yield)
 sd(yield)
-range(yield)
 
 #retail price
-range(retail_price)
+var(retail_price)
+sd(retail_price)
+
+#cupequivalentsize
+var(cup_size)
+sd(cup_size)
+
+#cupequivalentprice
+var(cup_price)
+sd(cup_price)
 
 df1 <- as.data.frame(count_form)
 df1
